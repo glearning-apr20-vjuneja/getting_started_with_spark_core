@@ -2,6 +2,6 @@
   "name": "getting_started_with_spark_core",
   "author": "Varun Juneja <juneja.varun@gmail.com>",
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A library that contains source codes for many Spark Libraries"
 }
